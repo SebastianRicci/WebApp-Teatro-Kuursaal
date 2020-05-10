@@ -1,18 +1,22 @@
-# Teatro Kursaal
+# Kursaal Theater
 
-WebApp desarrollado con JavaServlets para la gestión de un teatro. Tiene como opciones añadir eventos, modificarlos, vender entradas y finalmente realizar reembolsos.
+WebApp designed with JavaServlets and HTML forms for administrating Kursaal theater.
 
-## Instrucciones de Uso
+## Prerequisites
+Java - Version 8.0 or later
+Apache Tomcat - Version 8.25.24 or later
 
-Compilar carpeta con Javac y posteriormente inicializar Apache Tomcat
+## Instructions
+
+Use Javac command on folder and then run in Apache Tomcat
 
 
-## Herramientas de Programación
+## Programming Tools
 
 * [Apache Tomcat](http://tomcat.apache.org)
 * [Java](https://www.java.com/en/) - JavaServlets
 
 
-## Autor
+## Author
 
 * **Sebastian Ricci** - *TECNUN* - [SebastianRicci](https://github.com/SebastianRicci)

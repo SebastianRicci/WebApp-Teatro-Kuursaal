@@ -3,8 +3,8 @@
 WebApp designed with JavaServlets and HTML forms for administrating Kursaal theater.
 
 ## Prerequisites
-Java - Version 8.0 or later
-Apache Tomcat - Version 8.25.24 or later
+* Java - Version 8.0 or later
+* Apache Tomcat - Version 8.25.24 or later
 
 ## Instructions
 

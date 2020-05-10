@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+<servlet>
+ <servlet-name>Seleccionar</servlet-name>
+ <servlet-class>Seleccionar</servlet-class>
+</servlet>
+
+<servlet>
+ <servlet-name>VenderEvento</servlet-name>
+ <servlet-class>VenderEvento</servlet-class>
+</servlet>
+
+
+<servlet>
+ <servlet-name>Tickets</servlet-name>
+ <servlet-class>Tickets</servlet-class>
+</servlet>
+
+<servlet>
+ <servlet-name>Reembolsar</servlet-name>
+ <servlet-class>Reembolsar</servlet-class>
+</servlet>
+
+<servlet>
+ <servlet-name>ReembolsarEntradas</servlet-name>
+ <servlet-class>ReembolsarEntradas</servlet-class>
+</servlet>
+
+<servlet>
+ <servlet-name>AgregarEvento</servlet-name>
+ <servlet-class>AgregarEvento</servlet-class>
+</servlet>
+
+<servlet>
+ <servlet-name>EventoInformacion</servlet-name>
+ <servlet-class>EventoInformacion</servlet-class>
+</servlet>
+    
+<servlet>
+ <servlet-name>AlterarEvento</servlet-name>
+ <servlet-class>AlterarEvento</servlet-class>
+</servlet>
+
+<servlet>
+ <servlet-name>EditarEvento</servlet-name>
+ <servlet-class>EditarEvento</servlet-class>
+</servlet>
+    
+<servlet>
+ <servlet-name>TicketEditado</servlet-name>
+ <servlet-class>TicketEditado</servlet-class>
+</servlet>
+
+<servlet-mapping>
+ <servlet-name>TicketEditado</servlet-name>
+ <url-pattern>/TicketEditado</url-pattern>
+</servlet-mapping>  
+    
+<servlet-mapping>
+ <servlet-name>EditarEvento</servlet-name>
+ <url-pattern>/EditarEvento</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+ <servlet-name>AlterarEvento</servlet-name>
+ <url-pattern>/AlterarEvento</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+ <servlet-name>AgregarEvento</servlet-name>
+ <url-pattern>/AgregarEvento</url-pattern>
+</servlet-mapping>
+    
+<servlet-mapping>
+ <servlet-name>EventoInformacion</servlet-name>
+ <url-pattern>/EventoInformacion</url-pattern>
+</servlet-mapping>
+
+
+<servlet-mapping>
+ <servlet-name>Seleccionar</servlet-name>
+ <url-pattern>/Seleccionar</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+ <servlet-name>VenderEvento</servlet-name>
+ <url-pattern>/VenderEvento</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+ <servlet-name>Tickets</servlet-name>
+ <url-pattern>/Tickets</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+ <servlet-name>Reembolsar</servlet-name>
+ <url-pattern>/Reembolsar</url-pattern>
+</servlet-mapping>
+
+<servlet-mapping>
+ <servlet-name>ReembolsarEntradas</servlet-name>
+ <url-pattern>/ReembolsarEntradas</url-pattern>
+</servlet-mapping>
+
+</web-app>

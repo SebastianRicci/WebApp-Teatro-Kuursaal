@@ -11,10 +11,10 @@ WebApp designed with Java Servlets and HTML forms for administrating Kursaal the
 
 1. Download TD2019_E03 folder
 2. Correctly set up Java in your command line interpreter (Terminal-Mac ; CMD-Windows).
-3.-Compile TD2019_E03/WEB-INF/classes folder using javac command. It should look like this:
-4.-Run Apache Tomcat in order to visualize and use web app in browser (catalina.sh run -Mac ; startup-Windows).
-5.-Search "localhost:8082" in browser. If done correctly you should see Apache Tomcat displaying this message:
-6.-Search "localhost:8082/TD2019_E03" in broswer.If done correctly you should see the web app:
+3. Compile TD2019_E03/WEB-INF/classes folder using javac command. It should look like this:
+4. Run Apache Tomcat in order to visualize and use web app in browser (catalina.sh run -Mac ; startup-Windows).
+5. Search "localhost:8082" in browser. If done correctly you should see Apache Tomcat displaying this message:
+6. Search "localhost:8082/TD2019_E03" in broswer.If done correctly you should see the web app:
 
 ## Programming Tools
 

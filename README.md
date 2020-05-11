@@ -5,7 +5,7 @@ WebApp designed with Java Servlets and HTML forms for administrating Kursaal the
 ## Prerequisites
 * Java - Version 8.0 or later
 * Apache Tomcat - Version 8.25.24 or later
-* Command Line Interpreter 
+* Command Line Interpreter - Terminal/CMD
 
 ## Instructions
 

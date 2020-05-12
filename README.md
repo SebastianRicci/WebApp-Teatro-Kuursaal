@@ -1,6 +1,6 @@
 # Kursaal Theater
 
-Web App designed with Java Servlets and HTML forms for administrating Kursaal theater. This project uses and stores data given by the user in order to perform basic management functions in theatres. Tasks such as adding events,selling tickets,modyfing created events and refunds can all be conducted using this web app.
+Web App designed with Java Servlets and HTML forms for administrating Kursaal theater. This project uses and stores data given by the user in order to perform basic management functions in theatres,such as adding events,selling tickets,modyfing created events and refunds can all be conducted using this web app.
 
 ## Prerequisites
 * Java - Version 8.0 or later
